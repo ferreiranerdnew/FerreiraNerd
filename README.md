@@ -14,7 +14,8 @@
   <img align="center" alt="Rafa-Csharp" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Ts" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Rafa-React" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg">
-   <img align="center" alt="Rafa-React" height="70" width="90" src="https://upload.wikimedia.org/wikipedia/commons/4/49/TOTVS_pos.jpg">
+  <img align="center" alt="Rafa-React" height="70" width="90" src="https://upload.wikimedia.org/wikipedia/commons/4/49/TOTVS_pos.jpg">
+   <img align="center" alt="Rafa-React" height="70" width="90" src="https://b3k6h8p5.rocketcdn.me/wp-content/uploads/2021/07/udemy.png">
 </div>
 
   ##
