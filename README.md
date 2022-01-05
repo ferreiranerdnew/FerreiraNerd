@@ -1,4 +1,4 @@
-### Ola! Eu sou Renato Ferreira (Ferreira Nerd)
+### Ola! Eu sou Renato Ferreira 
 
 <div align="center">
   <a href="https://github.com/FerreiraNerd">
