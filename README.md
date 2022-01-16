@@ -21,7 +21,7 @@
   <img align="center" alt="Rafa-React" height="70" width="90" src="https://b3k6h8p5.rocketcdn.me/wp-content/uploads/2021/07/udemy.png">
 </div>
 
-  ##
+  ###
 <!--Div Abaixo Informações das redes sociais -->
   
   <div> 
