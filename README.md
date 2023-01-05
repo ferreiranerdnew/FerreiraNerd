@@ -18,7 +18,7 @@
   <img align="center" alt="Rafa-Ts" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"> 
   <img align="center" alt="Rafa-React" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg">
   <img align="center" alt="Rafa-React" height="70" width="90" src="https://upload.wikimedia.org/wikipedia/commons/4/49/TOTVS_pos.jpg">
-  <img align="center" alt="Rafa-React" height="70" width="90" src="https://b3k6h8p5.rocketcdn.me/wp-content/uploads/2021/07/udemy.png">
+  <!--img align="center" alt="Rafa-React" height="70" width="90" src="https://b3k6h8p5.rocketcdn.me/wp-content/uploads/2021/07/udemy.png"-->
 </div>
 
   ###
