@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/FerreiraNerd">
+  <a href="https://github.com/ferreiranerdnew">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FerreiraNerdnew&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreiranerdnew&layout=compact&langs_count=7&theme=dark"/>
   </a>
@@ -41,7 +41,3 @@
   
 </div>
 
-<!--div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
-</div-->
